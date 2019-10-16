@@ -54,10 +54,5 @@ plt.xlabel("epochs")
 plt.ylabel("accuracy")
 plt.ylim(0, 1.0)
 plt.legend(loc='lower right')
-<<<<<<< HEAD
-plt.savefig('fig4-11.png')
-plt.show()
-=======
 plt.savefig('fig4-11')
 plt.show()
->>>>>>> 276f4e8e74b89a4bf1ab6e21f1a8b3145414dfba
