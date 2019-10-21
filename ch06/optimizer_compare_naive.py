@@ -1,4 +1,4 @@
-# coding: utf-8
+#coding: utf-8
 import sys, os
 sys.path.append(os.pardir)  # 親ディレクトリのファイルをインポートするための設定
 import numpy as np
